@@ -3,8 +3,7 @@
 fTail='.jpg'
 iDir='/Users/rsekhon/Documents/Images/'
 uSr='root'
-				#psWd=''
-psWd='kj9MySqlRoot'
+psWd=''
 hoSt='localhost'
 dB='fad'
 firstLine=1
